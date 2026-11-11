@@ -1,0 +1,18 @@
+# Images et modèles (stockés sur Google Drive)
+projet7_vlm/
+data/
+images/
+lora_dataset/
+lora_sd15/
+*.jpg
+*.jpeg
+*.zip
+*.safetensors
+*.bin
+*.pt
+
+# Python et Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
